@@ -17,5 +17,5 @@ powered by OpenFrameworks.
 
 - - - -
 
-Karma Kusala: http://karma-kusala.com/
+Karma Kusala: http://karma-kusala.com/  
 Preview video: https://vimeo.com/84865967/
